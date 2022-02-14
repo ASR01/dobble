@@ -1,0 +1,20 @@
+train: /content/drive/My Drive/Strive/Capstone/images/cards_10/train/images 
+val:  /content/drive/My Drive/Strive/Capstone/images/cards_10/test/images
+#test: /content/drive/My Drive/Strive/Capstone/images/cards_10/test/
+
+# number of classes
+nc: 11
+
+
+# class names
+names: ['Target',
+'Ghost',
+'Lightning',
+'Clown',
+'Moon',
+'Drop',
+'Baby bottle',
+'Dragon',
+'Bomb',
+'Dobble',
+'Igloo']

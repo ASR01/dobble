@@ -1,0 +1,26 @@
+# Images
+
+module_files/data/original_cards/*.JPEG
+module_files/*/*.jpeg
+module_files/*/*.png
+module_files/*/*.bmp
+module_files/*/*.heic
+module_files/*/*.JPG
+module_files/*/*.JPEG
+module_files/*/*.PNG
+module_files/*/*.BMP
+module_files/*/*.HEIC
+module_files/*/*.mp4
+module_files/*/*.mov
+module_files/*/*.MOV
+module_files/*/*.avi
+
+# Neural Network weights -----------------------------------------------------------------------------------------------
+*.weights
+*.pt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
