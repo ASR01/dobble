@@ -1,8 +1,4 @@
 
-<video width="320" height="240">
-  <source src="https://drive.google.com/file/d/1ZfHFnFGIRWU2Ih7t9By39fMDghumqVg_/view?usp=sharing" type="video/mp4">
-</video>
-
 # Dobble
 
 I have done this project as milestone for the end of my training as AI Engineer at Strive School.

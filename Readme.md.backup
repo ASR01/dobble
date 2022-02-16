@@ -48,7 +48,7 @@ The first approach tested was using OpenCV and detecting contours, the results w
 
 After all the training the model was working properly, with confidence over 90% almost all the cases. There was no much difference in a 1280px model than 640px.
 
-[Video](https://drive.google.com/file/d/1ZfHFnFGIRWU2Ih7t9By39fMDghumqVg_/view?usp=sharing)
+[Performance Video](https://drive.google.com/file/d/1ZfHFnFGIRWU2Ih7t9By39fMDghumqVg_/view?usp=sharing)
 
 ![Image](./docs/Pic_train2.png)
 
